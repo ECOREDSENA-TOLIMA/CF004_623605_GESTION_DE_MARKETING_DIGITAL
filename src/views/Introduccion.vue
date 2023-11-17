@@ -8,6 +8,10 @@
         span
           i.fas.fa-info
       h1 Introducción
+
+    p.mb-5 A través de este componente se le brindará al aprendiz las herramientas necesarias para abordar la planeación y diseño de planes de comunicación digital, lo invitamos a ver el siguiente video:
+
+    
     
 </template>
 
