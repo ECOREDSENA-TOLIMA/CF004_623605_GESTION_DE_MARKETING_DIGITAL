@@ -146,6 +146,10 @@
               p La estrategia de <em>inbound marketing,</em> es principalmente empleada en el <em>marketing</em> digital y en el marketing de contenido; el <em>inbound de marketing</em> se centra en atraer el interés del <em>buyer</em> persona a través de la experiencia. 
               p Veamos más sobre el mismo, a continuación:
 
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Ltis32BtI5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
     p.text-center.mb-5 Dentro de las acciones a adelantar de marketing de contenido digital se encuentran: 
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")

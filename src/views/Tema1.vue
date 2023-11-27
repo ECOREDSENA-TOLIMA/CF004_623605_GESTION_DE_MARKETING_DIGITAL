@@ -18,7 +18,7 @@
     
     figure.mb-4
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/lpS6sY69J1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/eZyQmzbLYC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.text-center.mb-5 Por lo anterior, es importante tener presente tres elementos claves para generar interés en el público con la producción de contenido digital:
 
