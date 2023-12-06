@@ -14,8 +14,8 @@
         .row.justify-content-center.align-items-center.mb-4
           .col-12(data-aos="fade-down-right")
             .cajon.color-secundario.p-4(style="background-color:#FFFBE5")
-              p La consolidación de una planeación estratégica implica integrar a toda la organización y hacer énfasis en unos niveles puntuales como lo son la misión corporativa, establecer unidades estratégicas de negocios, asignar recursos a cada unidad estratégica de negocios y evaluar las oportunidades de crecimiento. Estos elementos se describen de forma detallada a continuación.
-    
+              p El contenido digital, cada día debe ser más atractivo y creativo para que cautive al público. A continuación, le invitamos a ver el siguiente video:
+
     figure.mb-4
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/eZyQmzbLYC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -48,7 +48,7 @@
               p <strong>Ser capaz de «transmitir los mensajes de forma breve» </strong>
               p.mb-0 Tres segundos es el tiempo que le cuesta a alguien determinar si el mensaje es interesante o de utilidad.
      
-    p.mb-5 Para adelantar una estrategia de contenido digital es indispensable establecer los objetivos, indicadores de medición o métricas, caracterizar al buyer persona, diseñar el mensaje, establecer un presupuesto y cronogramas, realizar seguimiento y control. 
+    p.mb-5 Para adelantar una estrategia de contenido digital es indispensable establecer los objetivos, indicadores de medición o métricas, caracterizar al <em>buyer</em> persona, diseñar el mensaje, establecer un presupuesto y cronogramas, realizar seguimiento y control. 
 
     Separador 
 
@@ -97,16 +97,16 @@
     
     .row.justify-content-center.align-items-center.mb-3
       .col-10(data-aos="fade-down-right")
-        p En cuanto a los contenidos de texto se encuentran los blog, e-book, guías, historias, noticias, bibliográficas; se debe ser muy creativo e ingenioso al momento de redactar textos, guardar una correcta ortografía y gramática; los textos deben ser dinámicos, con la intención de entretener al consumidor.
+        p En cuanto a los contenidos de texto se encuentran los <em>blogs, e-books,</em> guías, historias, noticias y fuentes bibliográficas; se debe ser muy creativo e ingenioso al momento de redactar textos, guardar una correcta ortografía y gramática; los textos deben ser dinámicos, con la intención de entretener al consumidor.
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-9.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p En cuanto al contenido digital de imágenes, son de los elementos empleados o esenciales en la creación de contenido digital, también suelen acompañar los textos; dentro de este contenido se encuentran imágenes, fotografías, infografías.
-            p.mb-0 Los audios son principalmente creados para podcast en los cuales pueden encontrar temas de interés, entrevistas, audiolibros, otro de los audios de contenido digital son las canciones. 
-        p En cuanto a la creación de contenido de videos o audiovisual permite crear mayor conexión con los consumidores, dentro de los cuales se encuentran tutoriales, películas, videos publicitarios, videos de influencers, Reels, entre otros.
-    
+            p En cuanto al contenido digital de imágenes, son de los elementos empleados o esenciales en la creación de contenido digital, también suelen acompañar a los textos; dentro de este contenido se encuentran imágenes, fotografías e infografías.
+            p.mb-0 Los audios se crean principalmente para podcasts, en ellos se pueden encontrar entrevistas, audiolibros y temas de interés. También se incluyen en esta categoría las canciones como otra forma de contenido digital auditivo.
+        p La creación de contenido audiovisual es clave para establecer una conexión más fuerte con los consumidores. Dentro de esta categoría se encuentran tutoriales, películas, videos publicitarios, contenido de <em>influencers, reels,</em> entre otros.
+
     Separador 
 
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -120,9 +120,9 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 <em>Los Blog</em>
-            p Los cuales son una página web que combina texto, imágenes e incluso vídeo para comunicarse con tu <em>buyer</em> persona dentro de tu sitio web. 
+            p Los cuales son una página <em>web</em> que combina texto, imágenes e incluso vídeo para comunicarse con tu <em>buyer</em> persona dentro de tu sitio <em>web.</em> 
             p Los temas para tratar en los <em>Blog</em> no son netamente publicitarios; lo que aquí se publica debe ser de interés para el <em>buyer</em> personas, que lo informe o brinde una solución, la cual debe estar relacionada con el producto, servicio o marca.
-            p Con la creación de un <em>blog</em> se debe implementar estrategias de <em>search engine optimization</em> (SEO), que permitan posicionar la página web en los resultados de Google; lo que permitirá, aumentar los contactos.
+            p Con la creación de un <em>blog</em> se debe implementar estrategias de <em>search engine optimization</em> (SEO), que permitan posicionar la página <em>web</em> en los resultados de Google; lo que permitirá, aumentar los contactos.
 
           .col-md-6.col-ipad
             figure
@@ -132,7 +132,7 @@
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 <em>Newsletter</em>
             p Es contenido digital creado para ser distribuido con cierta periodicidad ya sea diaria, semanal, mensual, bimensual, trimestral o cuando tienes algo interesante que enviar o compartir.
-            p Este contenido por lo general es distribuido mediante e-mail a quienes se han suscrito, para recibir información de algún tema de interés, como puede ser boletines de noticias, boletines informativos de alguna industria o información de una compañía o marca.
+            p Este contenido por lo general es distribuido mediante <em>e-mail</em> a quienes se han suscrito, para recibir información de algún tema de interés, como puede ser boletines de noticias, boletines informativos de alguna industria o información de una compañía o marca.
             p La creación de <em>Newsletter</em> permite convertir al suscriptor en lead, la información sea visible en todos los dispositivos.
 
           .col-md-6.col-ipad
@@ -143,7 +143,7 @@
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 <em>Infografías</em>
             p El principal objetivo de las infografías es informar de una forma creativa; por lo cual están creadas principalmente por imágenes y gráficos llamativos, y poco de texto explicativo; deben se deben de ser creadas para transmitir información a los consumidores de una forma didáctica. 
-            p La implementación de las infografías como contenido digital, permitirá que los sitios web sean atractivos y se compartan en diferentes sitios como las redes sociales; lo que conlleva      como resultado a un aumento de tráfico en la página web.  
+            p La implementación de las infografías como contenido digital, permitirá que los sitios <em>web</em> sean atractivos y se compartan en diferentes sitios como las redes sociales; lo que conlleva como resultado a un aumento de tráfico en la página <em>web.</em>  
 
           .col-md-6.col-ipad
             figure
@@ -152,7 +152,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 Videos
-            p Los videos son una de las estrategias de <em>marketing</em> de contenido que ayudan a posicionar de manera más rápida un producto, servicio o marca, los videos son contenido audiovisual empleados para realizar publicidad, pero también como tutoriales, entrevistas, historias, retos entre otros; otras de las ventajas de los videos es que se pueden involucrar en diferentes contenidos digitales como los<em>Blog, Newsletter.</em>
+            p Los videos son una de las estrategias de <em>marketing</em> de contenido que ayudan a posicionar de manera más rápida un producto, servicio o marca, los videos son contenido audiovisual empleados para realizar publicidad, pero también como tutoriales, entrevistas, historias, retos entre otros; otras de las ventajas de los videos es que se pueden involucrar en diferentes contenidos digitales como los <em>Blog, Newsletter.</em>
           
           .col-md-6.col-ipad
             figure
@@ -191,13 +191,13 @@
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 <em>Webinar</em>
             p Son contenido digital creados con la finalidad de captar suscriptores o <em>leads</em> a través de un tema específico de interés como lo es la educación mediante videos algunos pueden ser <em>online</em> y otros pregrabados, todo dependerá de la estrategia creada. 
-            p Otros de los tipos de contenidos digitales son las recetas, las historias y las noticias, las cuales pueden ser creadas a través de páginas web, <em>blogs,</em> redes sociales, entre otros.
+            p Otros de los tipos de contenidos digitales son las recetas, las historias y las noticias, las cuales pueden ser creadas a través de páginas <em>web, blogs,</em> redes sociales, entre otros.
 
           .col-md-6.col-ipad
             figure
               img(src='@/assets/curso/temas/tema1/img-17.png', alt='Texto que describa la imagen')
 
-    p.text-center.mb-5 Otros de los tipos de contenidos digitales son las recetas, las historias y las noticias, las cuales pueden ser creadas a través de páginas web, blogs, redes sociales, entre otros. 
+    p.text-center.mb-5 Otros de los tipos de contenidos digitales son las recetas, las historias y las noticias, las cuales pueden ser compartidas a través de páginas <em>web, blogs,</em> redes sociales, entre otros. 
 
 
     

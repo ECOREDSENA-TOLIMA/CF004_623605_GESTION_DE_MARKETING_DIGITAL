@@ -33,7 +33,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Contenido digital para el marketing',
+        titulo: 'Contenido digital para el <em>marketing</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -51,7 +51,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Canales digitales para el marketing',
+        titulo: 'Canales digitales para el <em>marketing</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -61,7 +61,7 @@ export default {
           },
           {
             numero: '2.2',
-            titulo: 'Acciones de marketing de contenidos digitales',
+            titulo: 'Acciones de <em>marketing</em> de contenidos digitales',
             hash: 't_2_2',
           },
           {
@@ -74,27 +74,27 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Marketing digital y de contenidos',
+        titulo: '<em>Marketing</em> digital y de contenidos',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Storytelling',
+            titulo: '<em>Storytelling</em>',
             hash: 't_3_1',
           },
           {
             numero: '3.2',
-            titulo: 'SEO y SEM',
+            titulo: '<em>SEO y SEM</em>',
             hash: 't_3_2',
           },
           {
             numero: '3.3',
-            titulo: 'Email marketing',
+            titulo: '<em>Email marketing</em>',
             hash: 't_3_3',
           },
           {
             numero: '3.4',
-            titulo: 'Social media marketing',
+            titulo: '<em>Social media marketing</em>',
             hash: 't_3_4',
           },
           {
@@ -157,29 +157,29 @@ export default {
   },
   complementario: [
     {
-      tema: '3. Marketing digital y de contenidos',
+      tema: '3. <em>Marketing</em> digital y de contenidos',
       referencia:
         'UNIVA (2018, 6 febrero). Redes Sociales, La comunidad Virtual [Video] Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=zM_p8MvLOyM',
     },
     {
-      tema: '3. Marketing digital y de contenidos',
+      tema: '3. <em>Marketing</em> digital y de contenidos',
       referencia:
-        'SENA. (2020, 12 mayo). Conceptos Básicos Sobre Marketing Digital - SENA [Video] Youtube.',
+        'SENA. (2020, 12 mayo). Conceptos Básicos Sobre <em>Marketing</em> Digital - SENA [Video] Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=LnUX087fcsk',
     },
     {
-      tema: '3. Marketing digital y de contenidos',
+      tema: '3. <em>Marketing</em> digital y de contenidos',
       referencia:
-        'Sanz-Marcos, P., Jiménez-Marín, G., & Elías-Zambrano, R. (2019). La incorporación de la figura del influencer en las campañas publicitarias: Consecuencias para las agencias de publicidad españolas. AdComunica, 63-86.',
+        'Sanz-Marcos, P., Jiménez-Marín, G., & Elías-Zambrano, R. (2019). La incorporación de la figura del <em>influencer</em> en las campañas publicitarias: Consecuencias para las agencias de publicidad españolas. AdComunica, 63-86.',
       tipo: 'Libro',
       link:
         'http://www.e-revistes.uji.es/index.php/adcomunica/article/view/5021',
     },
     {
-      tema: '3.1. Storytelling',
+      tema: '3.1. <em>Storytelling</em>',
       referencia:
         'Coca Cola (2020, 7 de septiembre) Juntos Sabe Mejor. [Video] Youtube.',
       tipo: 'Video',
@@ -190,17 +190,17 @@ export default {
     {
       termino: 'Campañas Publicitaria Digital',
       significado:
-        'Estrategia de marketing digital, que busca dar a conocer un producto, servicio o marca, en medios digitales.',
+        'Estrategia de <em>marketing</em> digital, que busca dar a conocer un producto, servicio o marca, en medios digitales.',
     },
     {
       termino: '<em>KPI</em>',
       significado:
-        'Son las siglas de <em>key performance indicator;</em> son indicadores y herramientas de medición de los cuales se obtiene información útil del nivel de rendimiento de una campaña o estrategia de social media marketing.',
+        'Son las siglas de <em>key performance indicator;</em> son indicadores y herramientas de medición de los cuales se obtiene información útil del nivel de rendimiento de una campaña o estrategia de <em>social media marketing.</em>',
     },
     {
-      termino: 'Marketing de contenidos',
+      termino: '<em>Marketing</em> de contenidos',
       significado:
-        'Son estrategias de marketing enfocadas en ofrecer contenidos útiles y de ayuda a los usuarios principalmente a través del blog y del <em>social media marketing.</em>',
+        'Son estrategias de <em>marketing</em> enfocadas en ofrecer contenidos útiles y de ayuda a los usuarios principalmente a través del <em>blog</em> y del <em>social media marketing.</em>',
     },
     {
       termino: 'Medios digitales',
@@ -222,7 +222,7 @@ export default {
         'Es el conjunto de estrategia para implementar publicidad en motores de búsqueda.',
     },
     {
-      termino: 'Sitio Web',
+      termino: 'Sitio <em>Web</em>',
       significado: 'Conjunto de páginas en línea.',
     },
     {
@@ -233,7 +233,7 @@ export default {
     {
       termino: '<em>Webinars</em>',
       significado:
-        'También llamados <strong><em>webinars,</em></strong> son eventos o conferencias que tienen lugar en el medio online. Es una muy buena estrategia para enganchar nuevos seguidores en las redes sociales.',
+        'También llamados <strong><em>webinars,</em></strong> son eventos o conferencias que tienen lugar en el medio <em>online.</em> Es una muy buena estrategia para enganchar nuevos seguidores en las redes sociales.',
     },
     {
       termino: '<em>Youtubers</em>',
@@ -255,13 +255,14 @@ export default {
         'https://idus.us.es/bitstream/handle/11441/93839/El_consumidor_digital.pdf?sequence=3',
     },
     {
-      referencia: 'Moschini, S., (s.f.). Claves del marketing digital. Edu.mx.',
+      referencia:
+        'Moschini, S., (s.f.). Claves del <em>marketing</em> digital. Edu.mx.',
       link:
         'https://www.ceut.edu.mx/Biblioteca/books/Administraci%C3%B3n-2/Claves-del-Marketing-Digital.pdf',
     },
     {
       referencia:
-        'Núñez, P., Ruiz, S. (2021). Presencia de influencers en campañas publicitarias digitales. Estudio de su capacidad persuasiva y efectividad en jóvenes. Universidad Complutense de Madrid.',
+        'Núñez, P., Ruiz, S. (2021). Presencia de <em>influencers</em> en campañas publicitarias digitales. Estudio de su capacidad persuasiva y efectividad en jóvenes. Universidad Complutense de Madrid.',
       link: '',
     },
   ],
