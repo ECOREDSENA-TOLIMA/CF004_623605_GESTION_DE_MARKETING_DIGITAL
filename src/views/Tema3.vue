@@ -361,14 +361,14 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Estrategia de SEM</em>
         figure
-          img.mb-2(src='@/assets/curso/temas/tema3/img-25-1.png', alt='')
+          img.mb-2(src='@/assets/curso/temas/tema3/img-25-1.png', alt='En la figura 2 se muestra un ejemplo de estrategia de SEM, donde en el buscador se visualiza un anuncio al hacer la búsqueda de venta de autos.')
 
     .row.mt-5.mb-2
       .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Estrategia de SEM</em>
         figure
-          img(src='@/assets/curso/temas/tema3/img-25-2.png', alt='') 
+          img(src='@/assets/curso/temas/tema3/img-25-2.png', alt='En la figura 2 se muestra un ejemplo de estrategia de SEM, donde en el buscador se visualiza un anuncio al hacer la búsqueda de venta de autos.') 
 
     p.mb-5 Para implementar una estrategia de SEM se deben de establecer los objetivos, identificar el <em>buyer</em> persona, las palabras claves, la página que se desee implementar, la estrategia, el presupuesto destinado a tal fin y diseñar los anuncios publicitarios.
 
