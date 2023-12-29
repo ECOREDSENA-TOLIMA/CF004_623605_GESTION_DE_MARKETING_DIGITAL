@@ -232,7 +232,7 @@
           .row.justify-content-center.mb-3
             .col-7
               img(src='@/assets/curso/temas/tema3/img-15.png' alt='AvatarTop')
-          p <strong><em>Storytelling</em> de valor</strong> 
+          p <strong><em>Storytelling</em> personal</strong> 
           p En cuanto al <em>storytelling</em> personal, busca narrar o relatar una historia de la vida real o personal, que logren inspirar al público objetivo y permitan crean una conexión con este suceso o historia de vida.
 
     .row.justify-content-center.align-items-center.mb-4
@@ -470,7 +470,7 @@
     .BGIMG01.p-4.mb-5
       SlyderB.mb-5(:datos="datosSlyder1")
 
-    p.mb-5 En cuanto a la creación de un plan de social media marketing, se deben seguir las siguientes fases:
+    p.mb-5 En cuanto a la creación de un plan de <em>social media marketing,</em> se deben seguir las siguientes fases:
 
     .row.mb-4
       .col-sm-6.col-lg-4.mb-4.mb-lg-0
@@ -574,7 +574,7 @@
       SlyderA(tipo="b")
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
-            p Estas plataformas brindan grandes beneficios para la organizaciones y las sociedades, dado que permiten:
+            p Estas plataformas brindan grandes beneficios para las organizaciones y las sociedades, dado que permiten:
             ul.lista-ul.mb-3
               li.mb-0
                 i.fas.fa-circle(style="color:#707070")

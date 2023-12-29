@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       '<em>Marketing</em> digital para comunidades virtuales',
     descripcionCurso:
-      'El componente formativo busca desarrollar conocimientos respecto a el contenido digital, los canales digitales y los planes de comunicación digital, como estrategias del <em>marketing</em> digital; aplicables en todos los campos y diferentes tipos de organizaciones que desean generar valor de marca a través del <em>marketing</em> digital.',
+      'El componente formativo busca desarrollar conocimientos respecto al contenido digital, los canales digitales y los planes de comunicación digital, como estrategias del <em>marketing</em> digital; aplicables en todos los campos y diferentes tipos de organizaciones que desean generar valor de marca a través del <em>marketing</em> digital.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [

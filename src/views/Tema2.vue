@@ -51,7 +51,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/img-3.png', alt='Texto que describa la imagen')
 
-      .py-4.py-md-5(titulo="Email de <em>Marketing</em>" :icono="require('@/assets/curso/temas/tema2/decorador-2.svg')")
+      .py-4.py-md-5(titulo="<em>Email de Marketing</em>" :icono="require('@/assets/curso/temas/tema2/decorador-2.svg')")
         .row
           .col-md-6.mb-4.mb-md-0
             p Los <em>email</em> son principalmente empleados para dar a conocer los portafolios de productos y servicios de las organizaciones, también es un medio empleado para comunicarse con los suscriptores. 

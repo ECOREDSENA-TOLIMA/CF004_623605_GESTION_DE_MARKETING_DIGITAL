@@ -1,1 +1,1 @@
-module.exports = '<em>Marketing</em> digital para comunidades virtuales'
+module.exports = 'Marketing digital para comunidades virtuales'

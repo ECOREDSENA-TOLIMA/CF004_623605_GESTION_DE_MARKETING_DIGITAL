@@ -103,8 +103,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-9.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p En cuanto al contenido digital de imágenes, son de los elementos empleados o esenciales en la creación de contenido digital, también suelen acompañar a los textos; dentro de este contenido se encuentran imágenes, fotografías e infografías.
-            p.mb-0 Los audios se crean principalmente para podcasts, en ellos se pueden encontrar entrevistas, audiolibros y temas de interés. También se incluyen en esta categoría las canciones como otra forma de contenido digital auditivo.
+            p En cuanto al contenido digital de imágenes, son de los elementos empleados o esenciales en la creación de contenido digital, también suelen acompañar a los textos; dentro de este contenido se encuentran imágenes, fotografías e infografías. Los audios se crean principalmente para podcasts, en ellos se pueden encontrar entrevistas, audiolibros y temas de interés. También se incluyen en esta categoría las canciones como otra forma de contenido digital auditivo.
         p La creación de contenido audiovisual es clave para establecer una conexión más fuerte con los consumidores. Dentro de esta categoría se encuentran tutoriales, películas, videos publicitarios, contenido de <em>influencers, reels,</em> entre otros.
 
     Separador 
@@ -161,7 +160,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 <em>E-book</em>
-            p Sin lugar a duda una de las industrias que se han debido transformar con la nueva era digital, ha sido la editoriales, por lo cual empiezan a publicar libros en formatos digitales.
+            p Sin lugar a duda una de las industrias que se han debido transformar con la nueva era digital, ha sido las editoriales, por lo cual empiezan a publicar libros en formatos digitales.
             p Los libros digitales, son más elaborados y extensos que los post en los <em>blog;</em> como también permiten que se descarguen en formatos establecidos; sin embargo, este contenido puede ser pago o gratuito, todo dependerá de la estrategia de <em>marketing.</em>
             p Se puede publicar libros digitales de forma gratuita con la finalidad de captar la atención de los consumidores, sobre un producto, servicio o marca; o con la finalidad de alimentar bases de datos a través de los registros en las páginas que albergan estos libros digitales.
 
