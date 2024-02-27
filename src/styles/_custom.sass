@@ -105,13 +105,55 @@
     display: none
 
 .tema1
+  @media (max-width: 991px)
+    .colortarj-1
+      width: 85% !important
+    .colortarj-2
+      width: 85% !important
+  
+  .colortarj-1
+    background-color: #E3ECF7
+    
+  .colortarj-2
+    background-color: #FFFBE5
+
+  .tarjeta
+    .colortarj-1
+      background-color: #E3ECF7
+      width: 100%
+
+  @media only screen and (width: 820px) 
+    .colortarj-1
+      width: 80% !important
+    .colortarj-2
+      width: 80% !important
+
+  @media only screen and (width: 1024px) 
+    .colortarj-1
+      width: 85% !important
+    .colortarj-2
+      width: 85% !important
+
   @media (min-width: 992px)
     .w-lg-50
       width: 50%
     .tarjeta-avatar-b .tarjeta.color-secundario--borde
       padding-left: 4%
 
-  .BGIMG01
+  .slyder-a__tipo-b
+    position: relative
+    display: flex
+    justify-content: space-between
+    align-items: center
+
+  .slyder-a__bullets__item
+    background-color: #ffff
+    @media (max-width: 450px)
+      margin: 0 5px
+    @media (max-width: 400px)
+      margin: 0 4px
+
+  .tarjeta.tarjeta--azul
     border-radius: 15px
     background-image: url("../assets/curso/temas/fondo1.svg")
     background-size: cover 
@@ -148,6 +190,35 @@
     font-size: 0.7rem
 
 .tema3
+  @media (max-width: 991px)
+    .colortarj-1
+      width: 85% !important
+    .colortarj-2
+      width: 85% !important
+  
+  .colortarj-1
+    background-color: #E3ECF7
+    
+  .colortarj-2
+    background-color: #FFFBE5
+
+  .tarjeta
+    .colortarj-1
+      background-color: #E3ECF7
+      width: 100%
+
+  @media only screen and (width: 820px) 
+    .colortarj-1
+      width: 80% !important
+    .colortarj-2
+      width: 80% !important
+
+  @media only screen and (width: 1024px) 
+    .colortarj-1
+      width: 85% !important
+    .colortarj-2
+      width: 85% !important
+
   @media (min-width: 992px)
     .w-lg-50
       width: 50%
@@ -208,6 +279,18 @@
     background-size: cover 
     background-repeat: no-repeat
     background-position: center
+
+  .slyder-b
+    position: relative
+    display: flex
+    justify-content: space-between
+    align-items: center
+
+  .slyder-c
+    position: relative
+    display: flex
+    justify-content: space-between
+    align-items: center
 
   .slyder-a__btn--sigt, .slyder-a__btn--atrs
     background-color: $color-acento-botones

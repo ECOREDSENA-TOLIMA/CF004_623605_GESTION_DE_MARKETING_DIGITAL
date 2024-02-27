@@ -58,42 +58,46 @@
     p La producción de contenidos hace referencia a la estructuración de la información con el propósito de generar interés en el consumidor o público objetivo, mediante la implementación de estrategias de <em>marketing.</em>
     p.mb-5 Se puede clasificar el contenido digital de acuerdo con el objetivo del <em>marketing</em> o de la creación de contenido, dentro de los cuales se encuentran: 
 
-    .row.justify-content-center.mt-5
-      SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-        .tarjeta.color-primario.p-4.col-ipad(style="background-color:#E3ECF7")
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/temas/tema1/img-4.png' alt='AvatarTop')
-          p <strong>Según la intención</strong> 
-          p Es la creación de contenido que resalta las características de los productos, servicios o marcas.
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="flip-right")
+      .tarjeta.colortarj-1.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img.mb-4(src='@/assets/curso/temas/tema1/img-4.png' alt='AvatarTop')
+          .col-12
+            p <strong>Según la intención</strong> 
+            p Es la creación de contenido que resalta las características de los productos, servicios o marcas.
 
-        .tarjeta.color-primario.p-4.col-ipad(style="background-color:#FFFBE5")
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/temas/tema1/img-5.png' alt='AvatarTop')
-          p <strong>Según el contenido</strong> 
-          p Como indica se relaciona con lo que contiene, lo cual puede ser textos, imágenes, sonidos, videos, etiquetas, gráficas 
+      .tarjeta.colortarj-2.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img.mb-4(src='@/assets/curso/temas/tema1/img-5.png' alt='AvatarTop')
+          .col-12
+            p <strong>Según el contenido</strong> 
+            p Como indica se relaciona con lo que contiene, lo cual puede ser textos, imágenes, sonidos, videos, etiquetas, gráficas 
 
-        .tarjeta.color-primario.p-4.col-ipad(style="background-color:#E3ECF7")
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/temas/tema1/img-6.png' alt='AvatarTop')
-          p <strong>Según el propósito</strong> 
-          p En cuanto al propósito, el contenido se encuentra relacionado con el objetivo debido a que el contenido puede ser creado para que los consumidores estén informados, adquieran un producto o servicio, se entretengan o interactúen en comunidad.
+      .tarjeta.colortarj-1.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img.mb-4(src='@/assets/curso/temas/tema1/img-6.png' alt='AvatarTop')
+          .col-12
+            p <strong>Según el propósito</strong> 
+            p En cuanto al propósito, el contenido se encuentra relacionado con el objetivo debido a que el contenido puede ser creado para que los consumidores estén informados, adquieran un producto o servicio, se entretengan o interactúen en comunidad.
 
-        .tarjeta.color-primario.p-4.col-ipad(style="background-color:#FFFBE5")
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/temas/tema1/img-7.png' alt='AvatarTop')
-          p <strong>Según el autor</strong> 
-          p Son los contenidos creados de forma individual o por la organización, o por terceros, esta creación puede ser propia, pagada o ganada.
+      .tarjeta.colortarj-2.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img.mb-4(src='@/assets/curso/temas/tema1/img-7.png' alt='AvatarTop')
+          .col-12
+            p <strong>Según el autor</strong> 
+            p Son los contenidos creados de forma individual o por la organización, o por terceros, esta creación puede ser propia, pagada o ganada.
 
-        .tarjeta.color-primario.p-4.col-ipad(style="background-color:#E3ECF7")
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/temas/tema1/img-8.png' alt='AvatarTop')
-          p <strong>Según los derechos</strong> 
-          p Cuando el contenido creado involucra obras que requieren permisos de derechos de autor o programas que requieren de licencias.
+      .tarjeta.colortarj-1.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img.mb-4(src='@/assets/curso/temas/tema1/img-8.png' alt='AvatarTop')
+          .col-12
+            p <strong>Según los derechos</strong> 
+            p Cuando el contenido creado involucra obras que requieren permisos de derechos de autor o programas que requieren de licencias.
     
     .row.justify-content-center.align-items-center.mb-3
       .col-10(data-aos="fade-down-right")
@@ -114,87 +118,88 @@
     p Existen diferentes tipos de contenido digital, su elección dependerá de los objetivos de <em>marketing</em>; por lo cual es necesario reconocer la situación actual, la industria, los competidores y el público objetivo al cual se va a dirigir.
     p.mb-5 A continuación, se presentan los principales tipos de contenido digital:      
 
-    .BGIMG01.p-5.mb-5
-      SlyderA(tipo="b")
-        .row
-          .col-md-6.mb-4.mb-md-0.col-ipad
-            h3 <em>Los Blog</em>
-            p Los cuales son una página <em>web</em> que combina texto, imágenes e incluso vídeo para comunicarse con tu <em>buyer</em> persona dentro de tu sitio <em>web.</em> 
-            p Los temas para tratar en los <em>Blog</em> no son netamente publicitarios; lo que aquí se publica debe ser de interés para el <em>buyer</em> personas, que lo informe o brinde una solución, la cual debe estar relacionada con el producto, servicio o marca.
-            p Con la creación de un <em>blog</em> se debe implementar estrategias de <em>search engine optimization</em> (SEO), que permitan posicionar la página <em>web</em> en los resultados de Google; lo que permitirá, aumentar los contactos.
+    .tarjeta.tarjeta--azul.mb-5(data-aos="fade-left")
+      .p-4.p-lg-5
+        SlyderA(tipo="b")
+          .row
+            .col-lg-7.mb-4.mb-lg-0
+              h3 <em>Los Blog</em>
+              p Los cuales son una página <em>web</em> que combina texto, imágenes e incluso vídeo para comunicarse con tu <em>buyer</em> persona dentro de tu sitio <em>web.</em> 
+              p Los temas para tratar en los <em>Blog</em> no son netamente publicitarios; lo que aquí se publica debe ser de interés para el <em>buyer</em> personas, que lo informe o brinde una solución, la cual debe estar relacionada con el producto, servicio o marca.
+              p Con la creación de un <em>blog</em> se debe implementar estrategias de <em>search engine optimization</em> (SEO), que permitan posicionar la página <em>web</em> en los resultados de Google; lo que permitirá, aumentar los contactos.
 
-          .col-md-6.col-ipad
-            figure
-              img(src='@/assets/curso/temas/tema1/img-10.png', alt='Texto que describa la imagen')
+            .col-lg-5
+              figure
+                img(src='@/assets/curso/temas/tema1/img-10.png', style="width: 450px", alt='Texto que describa la imagen')
 
-        .row
-          .col-md-6.mb-4.mb-md-0.col-ipad
-            h3 <em>Newsletter</em>
-            p Es contenido digital creado para ser distribuido con cierta periodicidad ya sea diaria, semanal, mensual, bimensual, trimestral o cuando tienes algo interesante que enviar o compartir.
-            p Este contenido por lo general es distribuido mediante <em>e-mail</em> a quienes se han suscrito, para recibir información de algún tema de interés, como puede ser boletines de noticias, boletines informativos de alguna industria o información de una compañía o marca.
-            p La creación de <em>Newsletter</em> permite convertir al suscriptor en lead, la información sea visible en todos los dispositivos.
+          .row
+            .col-lg-7.mb-4.mb-lg-0
+              h3 <em>Newsletter</em>
+              p Es contenido digital creado para ser distribuido con cierta periodicidad ya sea diaria, semanal, mensual, bimensual, trimestral o cuando tienes algo interesante que enviar o compartir.
+              p Este contenido por lo general es distribuido mediante <em>e-mail</em> a quienes se han suscrito, para recibir información de algún tema de interés, como puede ser boletines de noticias, boletines informativos de alguna industria o información de una compañía o marca.
+              p La creación de <em>Newsletter</em> permite convertir al suscriptor en lead, la información sea visible en todos los dispositivos.
 
-          .col-md-6.col-ipad
-            figure
-              img(src='@/assets/curso/temas/tema1/img-11.png', alt='Texto que describa la imagen')
+            .col-lg-5
+              figure
+                img(src='@/assets/curso/temas/tema1/img-11.png', alt='Texto que describa la imagen')
 
-        .row
-          .col-md-6.mb-4.mb-md-0.col-ipad
-            h3 <em>Infografías</em>
-            p El principal objetivo de las infografías es informar de una forma creativa; por lo cual están creadas principalmente por imágenes y gráficos llamativos, y poco de texto explicativo; deben se deben de ser creadas para transmitir información a los consumidores de una forma didáctica. 
-            p La implementación de las infografías como contenido digital, permitirá que los sitios <em>web</em> sean atractivos y se compartan en diferentes sitios como las redes sociales; lo que conlleva como resultado a un aumento de tráfico en la página <em>web.</em>  
+          .row
+            .col-lg-7.mb-4.mb-lg-0
+              h3 <em>Infografías</em>
+              p El principal objetivo de las infografías es informar de una forma creativa; por lo cual están creadas principalmente por imágenes y gráficos llamativos, y poco de texto explicativo; deben se deben de ser creadas para transmitir información a los consumidores de una forma didáctica. 
+              p La implementación de las infografías como contenido digital, permitirá que los sitios <em>web</em> sean atractivos y se compartan en diferentes sitios como las redes sociales; lo que conlleva como resultado a un aumento de tráfico en la página <em>web.</em>  
 
-          .col-md-6.col-ipad
-            figure
-              img(src='@/assets/curso/temas/tema1/img-12.png', alt='Texto que describa la imagen')
+            .col-lg-5
+              figure
+                img(src='@/assets/curso/temas/tema1/img-12.png', alt='Texto que describa la imagen')
 
-        .row
-          .col-md-6.mb-4.mb-md-0.col-ipad
-            h3 Videos
-            p Los videos son una de las estrategias de <em>marketing</em> de contenido que ayudan a posicionar de manera más rápida un producto, servicio o marca, los videos son contenido audiovisual empleados para realizar publicidad, pero también como tutoriales, entrevistas, historias, retos entre otros; otras de las ventajas de los videos es que se pueden involucrar en diferentes contenidos digitales como los <em>Blog, Newsletter.</em>
+          .row
+            .col-lg-7.mb-4.mb-lg-0
+              h3 Videos
+              p Los videos son una de las estrategias de <em>marketing</em> de contenido que ayudan a posicionar de manera más rápida un producto, servicio o marca, los videos son contenido audiovisual empleados para realizar publicidad, pero también como tutoriales, entrevistas, historias, retos entre otros; otras de las ventajas de los videos es que se pueden involucrar en diferentes contenidos digitales como los <em>Blog, Newsletter.</em>
+            
+            .col-lg-5
+              figure
+                img(src='@/assets/curso/temas/tema1/img-13.png', alt='Texto que describa la imagen')
           
-          .col-md-6.col-ipad
-            figure
-              img(src='@/assets/curso/temas/tema1/img-13.png', alt='Texto que describa la imagen')
-        
-        .row
-          .col-md-6.mb-4.mb-md-0.col-ipad
-            h3 <em>E-book</em>
-            p Sin lugar a duda una de las industrias que se han debido transformar con la nueva era digital, ha sido las editoriales, por lo cual empiezan a publicar libros en formatos digitales.
-            p Los libros digitales, son más elaborados y extensos que los post en los <em>blog;</em> como también permiten que se descarguen en formatos establecidos; sin embargo, este contenido puede ser pago o gratuito, todo dependerá de la estrategia de <em>marketing.</em>
-            p Se puede publicar libros digitales de forma gratuita con la finalidad de captar la atención de los consumidores, sobre un producto, servicio o marca; o con la finalidad de alimentar bases de datos a través de los registros en las páginas que albergan estos libros digitales.
+          .row
+            .col-lg-7.mb-4.mb-lg-0
+              h3 <em>E-book</em>
+              p Sin lugar a duda una de las industrias que se han debido transformar con la nueva era digital, ha sido las editoriales, por lo cual empiezan a publicar libros en formatos digitales.
+              p Los libros digitales, son más elaborados y extensos que los post en los <em>blog;</em> como también permiten que se descarguen en formatos establecidos; sin embargo, este contenido puede ser pago o gratuito, todo dependerá de la estrategia de <em>marketing.</em>
+              p Se puede publicar libros digitales de forma gratuita con la finalidad de captar la atención de los consumidores, sobre un producto, servicio o marca; o con la finalidad de alimentar bases de datos a través de los registros en las páginas que albergan estos libros digitales.
 
-          .col-md-6.col-ipad
-            figure
-              img(src='@/assets/curso/temas/tema1/img-14.png', alt='Texto que describa la imagen')
-        
-        .row
-          .col-md-6.mb-4.mb-md-0.col-ipad
-            h3 <em>Podcast</em>
-            p Permiten transmitir contenido digital mediante audios que son cargados a plataformas especializadas como <em>Spotify, SoundCloud, Google Podcasts,</em> entre otras; por lo general trata de temas específicos como salud, estilo de vida, cultura, historia, entrevistas, educación, noticias.
+            .col-lg-5
+              figure
+                img(src='@/assets/curso/temas/tema1/img-14.png', alt='Texto que describa la imagen')
+          
+          .row
+            .col-lg-7.mb-4.mb-lg-0
+              h3 <em>Podcast</em>
+              p Permiten transmitir contenido digital mediante audios que son cargados a plataformas especializadas como <em>Spotify, SoundCloud, Google Podcasts,</em> entre otras; por lo general trata de temas específicos como salud, estilo de vida, cultura, historia, entrevistas, educación, noticias.
 
-          .col-md-6.col-ipad
-            figure
-              img(src='@/assets/curso/temas/tema1/img-15.png', alt='Texto que describa la imagen')
-        
-        .row
-          .col-md-6.mb-4.mb-md-0.col-ipad
-            h3 Imágenes
-            p Son contenido creativo a través de imágenes, postales o fotografías; en muchas ocasiones acompañan la publicación, también los <em>blog,</em> videos, infografías, y diverso contenidos publicados en los canales digitales.
+            .col-lg-5
+              figure
+                img(src='@/assets/curso/temas/tema1/img-15.png', alt='Texto que describa la imagen')
+          
+          .row
+            .col-lg-7.mb-4.mb-lg-0
+              h3 Imágenes
+              p Son contenido creativo a través de imágenes, postales o fotografías; en muchas ocasiones acompañan la publicación, también los <em>blog,</em> videos, infografías, y diverso contenidos publicados en los canales digitales.
 
-          .col-md-6.col-ipad
-            figure
-              img(src='@/assets/curso/temas/tema1/img-16.png', alt='Texto que describa la imagen')
+            .col-lg-5
+              figure
+                img(src='@/assets/curso/temas/tema1/img-16.png', alt='Texto que describa la imagen')
 
-        .row
-          .col-md-6.mb-4.mb-md-0.col-ipad
-            h3 <em>Webinar</em>
-            p Son contenido digital creados con la finalidad de captar suscriptores o <em>leads</em> a través de un tema específico de interés como lo es la educación mediante videos algunos pueden ser <em>online</em> y otros pregrabados, todo dependerá de la estrategia creada. 
-            p Otros de los tipos de contenidos digitales son las recetas, las historias y las noticias, las cuales pueden ser creadas a través de páginas <em>web, blogs,</em> redes sociales, entre otros.
+          .row
+            .col-lg-7.mb-4.mb-lg-0
+              h3 <em>Webinar</em>
+              p Son contenido digital creados con la finalidad de captar suscriptores o <em>leads</em> a través de un tema específico de interés como lo es la educación mediante videos algunos pueden ser <em>online</em> y otros pregrabados, todo dependerá de la estrategia creada. 
+              p Otros de los tipos de contenidos digitales son las recetas, las historias y las noticias, las cuales pueden ser creadas a través de páginas <em>web, blogs,</em> redes sociales, entre otros.
 
-          .col-md-6.col-ipad
-            figure
-              img(src='@/assets/curso/temas/tema1/img-17.png', alt='Texto que describa la imagen')
+            .col-lg-5
+              figure
+                img(src='@/assets/curso/temas/tema1/img-17.png', alt='Texto que describa la imagen')
 
     p.text-center.mb-5 Otros de los tipos de contenidos digitales son las recetas, las historias y las noticias, las cuales pueden ser compartidas a través de páginas <em>web, blogs,</em> redes sociales, entre otros. 
 

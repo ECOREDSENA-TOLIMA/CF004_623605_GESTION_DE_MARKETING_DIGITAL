@@ -118,8 +118,8 @@
     p El <strong><em>storytelling,</em></strong> adopta técnicas que permiten transmitir mensajes, que se convierten en todo un arte; lo cual permite cautivar a la audiencia a través de la creación de un contenido digital único, esto logrará que el <em>buyer</em> persona, se identifique y cree emociones alrededor de la historia transmitida. 
     p.mb-5 Dentro de los <strong><em>storytellings,</em></strong> se encuentran diferentes tipos, que soportan la creación del contenido digital como:
 
-    .row.justify-content-center.mb-5
-      .col-sm-3.col-xl-3.mb-4.mb-xl-0(data-aos="fade-right")
+    .row.justify-content-center.mb-5.mt-5
+      .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema3/img-7.png' alt='AvatarTop' style='width:600px')
@@ -131,7 +131,7 @@
               h5.mb-0 <strong>El mensaje</strong>
             p.mb-0.text-small Se debe crear un mensaje que cree conexión y despierte emoción a la audiencia, esto permitirá que sea recordado por la audiencia, el mensaje es el elemento principal del storytelling; por lo cual también se busca persuadir para que el público objetivo realice una acción.
 
-      .col-sm-3.col-xl-3.mb-4.mb-xl-0(data-aos="fade-up")
+      .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema3/img-8.png' alt='AvatarTop' style='width:600px')
@@ -143,7 +143,7 @@
               h5.mb-0 <strong>El ambiente</strong>
             p.mb-0.text-small Son los elementos de ambientación que permitirán desarrollar la historia, estos elementos pueden ser visuales o en el caso de un audio, deben ser descritos correctamente.
 
-      .col-sm-3.col-xl-3.mb-4.mb-xl-0(data-aos="fade-right")
+      .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema3/img-9.png' alt='AvatarTop' style='width:600px')
@@ -155,7 +155,7 @@
               h5.mb-0 <strong>Los personajes</strong>
             p.mb-0.text-small Son quienes permiten desarrollar la historia, y cumplen con el objetivo de transmitir el mensaje.
 
-      .col-sm-3.col-xl-3.mb-4.mb-xl-0(data-aos="fade-right")
+      .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema3/img-10.png' alt='AvatarTop' style='width:600px')
@@ -198,42 +198,46 @@
 
         p.mb-4 En cuanto a la creación del <em>storytelling,</em> se deben tener en cuenta los elementos claves, los cuales permitirán que la historia a contar o narrar sea de éxito, por consiguiente, el <em>storytelling</em> debe contener los siguientes elementos: 
                 
-    .row.justify-content-center.mt-5
-      SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-        .tarjeta.color-primario.p-4.col-ipad(style="background-color:#E3ECF7")
-          .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/temas/tema3/img-11.png' alt='AvatarTop')
-          p <strong><em>Storytelling</em> de ficción</strong> 
-          p En cuanto a los <em>storytelling</em> de ficción, narran una historia de ficción, donde todos los hechos, acontecimientos, personajes, son irreales; pero la historia que se narra conecta o se identifica con el <em>buyer</em> personas.
+        SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="flip-right")
+          .tarjeta.colortarj-1.p-4
+            .row.justify-content-center.mb-3
+              .col-8
+                img.mb-4(src='@/assets/curso/temas/tema3/img-11.png' alt='AvatarTop')
+              .col-12
+                p <strong><em>Storytelling</em> de ficción</strong> 
+                p En cuanto a los <em>storytelling</em> de ficción, narran una historia de ficción, donde todos los hechos, acontecimientos, personajes, son irreales; pero la historia que se narra conecta o se identifica con el <em>buyer</em> personas.
 
-        .tarjeta.color-primario.p-4.col-ipad(style="background-color:#FFFBE5")
-          .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/temas/tema3/img-12.png' alt='AvatarTop')
-          p <strong><em>Storytelling</em> de histórico</strong> 
-          p En cuanto a los <em>storytelling</em> históricos, narra hechos reales del pasado, estos deben de transmitir un mensaje que conecta con la audiencia, debido a que transmite un episodio o época que marcó  sus vidas, como también puede relatar la evolución de una marca o producto.
+          .tarjeta.colortarj-2.p-4
+            .row.justify-content-center.mb-3
+              .col-8
+                img.mb-4(src='@/assets/curso/temas/tema3/img-12.png' alt='AvatarTop')
+              .col-12
+                p <strong><em>Storytelling</em> de histórico</strong> 
+                p En cuanto a los <em>storytelling</em> históricos, narra hechos reales del pasado, estos deben de transmitir un mensaje que conecta con la audiencia, debido a que transmite un episodio o época que marcó  sus vidas, como también puede relatar la evolución de una marca o producto.
 
-        .tarjeta.color-primario.p-4.col-ipad(style="background-color:#E3ECF7")
-          .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/temas/tema3/img-13.png' alt='AvatarTop')
-          p <strong><em>Storytelling</em> de valor</strong> 
-          p En cuanto al <em>storytelling</em> de valor, transmite un relato de sucesos cotidianos ya sea de los consumidores o de las organizaciones..
+          .tarjeta.colortarj-1.p-4
+            .row.justify-content-center.mb-3
+              .col-8
+                img.mb-4(src='@/assets/curso/temas/tema3/img-13.png' alt='AvatarTop')
+              .col-12
+                p <strong><em>Storytelling</em> de valor</strong> 
+                p En cuanto al <em>storytelling</em> de valor, transmite un relato de sucesos cotidianos ya sea de los consumidores o de las organizaciones..
 
-        .tarjeta.color-primario.p-4.col-ipad(style="background-color:#FFFBE5")
-          .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/temas/tema3/img-14.png' alt='AvatarTop')
-          p <strong><em>Storytelling</em> de consumo</strong> 
-          p En cuanto al <em>storytelling</em> de consumo, en el relato o historia, el producto o servicio son los elementos más relevantes, es decir son los protagonistas de la historia, sin embargo, esta historia no se debe reflejar cómo publicitaria, de lo contrario que el consumidor tenga una experiencia o despierte alguna emoción.
+          .tarjeta.colortarj-2.p-4
+            .row.justify-content-center.mb-3
+              .col-8
+                img.mb-4(src='@/assets/curso/temas/tema3/img-14.png' alt='AvatarTop')
+              .col-12
+                p <strong><em>Storytelling</em> de consumo</strong> 
+                p En cuanto al <em>storytelling</em> de consumo, en el relato o historia, el producto o servicio son los elementos más relevantes, es decir son los protagonistas de la historia, sin embargo, esta historia no se debe reflejar cómo publicitaria, de lo contrario que el consumidor tenga una experiencia o despierte alguna emoción.
 
-        .tarjeta.color-primario.p-4.col-ipad(style="background-color:#E3ECF7")
-          .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/temas/tema3/img-15.png' alt='AvatarTop')
-          p <strong><em>Storytelling</em> personal</strong> 
-          p En cuanto al <em>storytelling</em> personal, busca narrar o relatar una historia de la vida real o personal, que logren inspirar al público objetivo y permitan crean una conexión con este suceso o historia de vida.
+          .tarjeta.colortarj-1.p-4
+            .row.justify-content-center.mb-3
+              .col-8
+                img.mb-4(src='@/assets/curso/temas/tema3/img-15.png' alt='AvatarTop')
+              .col-12
+                p <strong><em>Storytelling</em> personal</strong> 
+                p En cuanto al <em>storytelling</em> personal, busca narrar o relatar una historia de la vida real o personal, que logren inspirar al público objetivo y permitan crean una conexión con este suceso o historia de vida.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="fade-down-right")
@@ -406,43 +410,50 @@
         p Para implementar el <em>email marketing</em> como estrategia al interior de las organizaciones se debe estructurar un plan operativo de email de <em>marketing</em> y construir una base de datos de correos electrónicos.
         p.mb-4 En cuanto a la estructuración del plan operativo de <em>email marketing</em> que ayude a cumplir el objetivo de <em>marketing</em> digital de las organizaciones, se debe tener en cuenta: 
       
-    .row.justify-content-center.mt-5
-      SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-        .tarjeta.color-primario.p-4.col-ipad(style="background-color:#E3ECF7")
-          .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/temas/tema3/img-26.png' alt='AvatarTop')
-          p Identificar el <em>buyer</em> persona, para lo cual se debe de construir u obtener una base de datos con sus datos personales, entre ellos el correo electrónico. 
+        SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="flip-right")
+          .tarjeta.colortarj-1.p-4
+            .row.justify-content-center.mb-3
+              .col-8
+                img.mb-4(src='@/assets/curso/temas/tema3/img-26.png' alt='AvatarTop')
+              .col-12
+                p Identificar el <em>buyer</em> persona, para lo cual se debe de construir u obtener una base de datos con sus datos personales, entre ellos el correo electrónico. 
 
-        .tarjeta.color-primario.p-4.col-ipad(style="background-color:#FFFBE5")
-          .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/temas/tema3/img-27.png' alt='AvatarTop')
-          p Determinar los objetivos de las campañas de <em>email marketing.</em>
+          .tarjeta.colortarj-2.p-4
+            .row.justify-content-center.mb-3
+              .col-8
+                img.mb-4(src='@/assets/curso/temas/tema3/img-27.png' alt='AvatarTop')
+              .col-12
+                p Determinar los objetivos de las campañas de <em>email marketing.</em>
 
-        .tarjeta.color-primario.p-4.col-ipad(style="background-color:#E3ECF7")
-          .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/temas/tema3/img-28.png' alt='AvatarTop')
-          p Obtener una base de datos a través de la suscripción de los usuarios, para lo cual la organización debe crear una estrategia en la que se autoriza enviar correos electrónicos, esta estrategia se puede implementar a través de enlaces en redes sociales, <em>blogs,</em> página <em>web,</em> páginas de <em>e-books.</em> 
-        
-        .tarjeta.color-primario.p-4.col-ipad(style="background-color:#FFFBE5")
-          .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/temas/tema3/img-29.png' alt='AvatarTop')
-          p Diseñar la campaña de <em>email marketing,</em> que pueden ser boletines informativos, publicidad de productos o servicios, ofertas; sin embargo, se debe de tener en cuenta el <em>buyer</em> persona y los objetivos para diseñar la campaña. 
+          .tarjeta.colortarj-1.p-4
+            .row.justify-content-center.mb-3
+              .col-8
+                img.mb-4(src='@/assets/curso/temas/tema3/img-28.png' alt='AvatarTop')
+              .col-12
+                p Obtener una base de datos a través de la suscripción de los usuarios, para lo cual la organización debe crear una estrategia en la que se autoriza enviar correos electrónicos, esta estrategia se puede implementar a través de enlaces en redes sociales, <em>blogs,</em> página <em>web,</em> páginas de <em>e-books.</em> 
+            
+          .tarjeta.colortarj-2.p-4
+            .row.justify-content-center.mb-3
+              .col-8
+                img.mb-4(src='@/assets/curso/temas/tema3/img-29.png' alt='AvatarTop')
+              .col-12
+                p Diseñar la campaña de <em>email marketing,</em> que pueden ser boletines informativos, publicidad de productos o servicios, ofertas; sin embargo, se debe de tener en cuenta el <em>buyer</em> persona y los objetivos para diseñar la campaña. 
 
-        .tarjeta.color-primario.p-4.col-ipad(style="background-color:#E3ECF7")
-          .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/temas/tema3/img-30.png' alt='AvatarTop')
-          p Diseñar un cronograma de actividades.
-        
-        .tarjeta.color-primario.p-4.col-ipad(style="background-color:#FFFBE5")
-          .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/temas/tema3/img-31.png' alt='AvatarTop')
-          p Establecer indicadores de gestión y métricas para la campaña publicitaria de <em>email marketing.</em> 
+          .tarjeta.colortarj-1.p-4
+            .row.justify-content-center.mb-3
+              .col-8
+                img.mb-4(src='@/assets/curso/temas/tema3/img-30.png' alt='AvatarTop')
+              .col-12
+                p Diseñar un cronograma de actividades.
+            
+          .tarjeta.colortarj-2.p-4
+            .row.justify-content-center.mb-3
+              .col-8
+                img.mb-4(src='@/assets/curso/temas/tema3/img-31.png' alt='AvatarTop')
+              .col-12
+                p Establecer indicadores de gestión y métricas para la campaña publicitaria de <em>email marketing.</em> 
+                
+    //- Botones de nave
 
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="fade-down-right")

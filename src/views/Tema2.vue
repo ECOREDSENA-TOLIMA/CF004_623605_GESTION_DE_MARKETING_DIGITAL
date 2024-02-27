@@ -159,9 +159,9 @@
 
           .tarjeta.tarjeta.p-4.mb-3(style="background-color:#FFFF")
             .row
-              .col-4
+              .col-lg-5.mb-3
                 img(src='@/assets/curso/temas/tema2/img-9.png')
-              .col-8
+              .col-lg-6
                 ul.lista-ul.mb-3
                   li.mb-0
                     i.fas.fa-circle(style="color:#707070")
@@ -198,9 +198,9 @@
 
           .tarjeta.tarjeta.p-4.mb-3(style="background-color:#FFFF")
             .row
-              .col-4
+              .col-lg-5.mb-3
                 img(src='@/assets/curso/temas/tema2/img-10.png')
-              .col-8
+              .col-lg-6
                 p Dentro de los video <em>marketing</em> se encuentran los tutoriales, en el cual mediante un video de informa o enseña sobre un tema de interés; dentro de estos videos de <em>marketing,</em> también se destacan los <em>Webinar.</em> 
                 p Los <em>webinar</em> o videoconferencias, permiten informar o tratar de un tema de interés para el <em>buyer</em> personas; estos <em>webinar</em> por lo general son seminarios que se transmiten en vivo o pueden estar pregrabados. La implementación de los <em>webinar</em> permite educar, informar sobre un producto o servicios, atraer nuevos <em>leads.</em>
           
@@ -211,9 +211,9 @@
 
           .tarjeta.tarjeta.p-4.mb-3(style="background-color:#FFFF")
             .row
-              .col-4
+              .col-lg-5.mb-3
                 img(src='@/assets/curso/temas/tema2/img-11.png')
-              .col-8
+              .col-lg-6
                 ul.lista-ul.mb-3
                   li.mb-0
                     i.fas.fa-circle(style="color:#707070")
