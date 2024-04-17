@@ -129,7 +129,7 @@
                 i.fas.fa-chevron-circle-up.fa-2x.me-3(style="color:#983333") 
                 i.fas.fa-chevron-circle-down.fa-2x.me-3(style="color:#983333") 
               h5.mb-0 <strong>El mensaje</strong>
-            p.mb-0.text-small Se debe crear un mensaje que cree conexión y despierte emoción a la audiencia, esto permitirá que sea recordado por la audiencia, el mensaje es el elemento principal del storytelling; por lo cual también se busca persuadir para que el público objetivo realice una acción.
+            p.mb-0.text-small Se debe crear un mensaje que cree conexión y despierte emoción a la audiencia, esto permitirá que sea recordado por la audiencia, el mensaje es el elemento principal del <em>storytelling</em>; por lo cual también se busca persuadir para que el público objetivo realice una acción.
 
       .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .tarjetas-up(@mouseover="mostrarIndicador = false")
@@ -286,7 +286,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-17.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 En cuanto el <em>Search Engine Optimization</em> (SEO), hace parte de las estrategias y técnicas que emplean las organizaciones, para mejorar la visibilidad de las páginas <em>web,</em> en los motores de búsqueda como <em>Google, Yahoo, Bing, Ask,</em> entre otros. 
+            p.mb-0 En cuanto el <em>Search Engine Optimization</em> (SEO), hace parte de las estrategias y técnicas que emplean las organizaciones, para mejorar la visibilidad de las páginas <em>web,</em> en los motores de búsqueda como Google, Yahoo, Bing, Ask, entre otros. 
         
         p Las estrategias de SEO, se basan en búsquedas orgánicas dentro de los buscadores, es decir que para lograr este posicionamiento no es necesario realizar un pago. 
         
@@ -356,7 +356,7 @@
               .p-4
                 p.mb-0 Realizar una investigación exhaustiva de palabras clave empleadas tanto por los motores de búsqueda como por los consumidores. Para esto, se pueden utilizar herramientas como SEMRush y Ahrefs.
 
-    p En cuanto a la estrategia <em>Search Engine Marketing</em> (SEM) o <em>marketing</em> en motores de búsqueda, se refiere a la implementación de publicidad paga en motores de búsqueda <em>Google, Yahoo, Bing, Ask,</em> entre otros; con la finalidad de posicionar un producto, servicio o marca. 
+    p En cuanto a la estrategia <em>Search Engine Marketing</em> (SEM) o <em>marketing</em> en motores de búsqueda, se refiere a la implementación de publicidad paga en motores de búsqueda Google, Yahoo, Bing, Ask, entre otros; con la finalidad de posicionar un producto, servicio o marca. 
     p Dado que es una estrategia de <em>marketing</em> digital pagada a diferencia del SEO, permite segmentar y llegar más rápido al <em>buyer</em> persona, incrementando la visibilidad de la marca, pero requiere de pequeñas inversiones.
     p.mb-5 Al buscar ventas de autos en el motor de búsqueda de Google, se encuentran páginas que emplean una estrategia de SEM, se pueden reconocer porque al principio de la búsqueda se visualizan con la palabra “anuncio”.
 

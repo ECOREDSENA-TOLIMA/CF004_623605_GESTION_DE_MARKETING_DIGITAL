@@ -45,7 +45,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             p Son conocidos como medios sociales, el cual es uno de los medios de comunicación digital más recurrente de las organizaciones para lanzar estrategias de <em>marketing</em> digital, debido a que estas permiten estar en comunicación y comunidad con los consumidores digitales.
-            p Dentro de estas plataformas, no solo se encuentran las redes sociales, también se encuentran como medios estratégicos <strong>los <em>blogs,</em> geolocalización,</strong> el cual permite que las marcas se visualicen en dispositivos móviles; <strong>los marcadores,</strong> permiten ser visualizado en la redes sociales, y <strong>multimedia</strong> permite la divulgación de contenido multimedia como <em>Livestream o YouTube.</em> 
+            p Dentro de estas plataformas, no solo se encuentran las redes sociales, también se encuentran como medios estratégicos <strong>los <em>blogs,</em> geolocalización,</strong> el cual permite que las marcas se visualicen en dispositivos móviles; <strong>los marcadores,</strong> permiten ser visualizado en la redes sociales, y <strong>multimedia</strong> permite la divulgación de contenido multimedia como Livestream o YouTube.
 
           .col-md-6
             figure

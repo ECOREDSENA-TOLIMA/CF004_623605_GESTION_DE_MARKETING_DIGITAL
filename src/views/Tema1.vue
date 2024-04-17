@@ -166,7 +166,7 @@
             .col-lg-7.mb-4.mb-lg-0
               h3 <em>E-book</em>
               p Sin lugar a duda una de las industrias que se han debido transformar con la nueva era digital, ha sido las editoriales, por lo cual empiezan a publicar libros en formatos digitales.
-              p Los libros digitales, son más elaborados y extensos que los post en los <em>blog;</em> como también permiten que se descarguen en formatos establecidos; sin embargo, este contenido puede ser pago o gratuito, todo dependerá de la estrategia de <em>marketing.</em>
+              p Los libros digitales, son más elaborados y extensos que los <em>post</em> en los <em>blog;</em> como también permiten que se descarguen en formatos establecidos; sin embargo, este contenido puede ser pago o gratuito, todo dependerá de la estrategia de <em>marketing.</em>
               p Se puede publicar libros digitales de forma gratuita con la finalidad de captar la atención de los consumidores, sobre un producto, servicio o marca; o con la finalidad de alimentar bases de datos a través de los registros en las páginas que albergan estos libros digitales.
 
             .col-lg-5
@@ -176,7 +176,7 @@
           .row
             .col-lg-7.mb-4.mb-lg-0
               h3 <em>Podcast</em>
-              p Permiten transmitir contenido digital mediante audios que son cargados a plataformas especializadas como <em>Spotify, SoundCloud, Google Podcasts,</em> entre otras; por lo general trata de temas específicos como salud, estilo de vida, cultura, historia, entrevistas, educación, noticias.
+              p Permiten transmitir contenido digital mediante audios que son cargados a plataformas especializadas como Spotify, SoundCloud, Google Podcasts, entre otras; por lo general trata de temas específicos como salud, estilo de vida, cultura, historia, entrevistas, educación, noticias.
 
             .col-lg-5
               figure
